@@ -1,0 +1,10 @@
+{
+  "name": "cypress-headless",
+  "private": true,
+  "scripts": {"cypress:open": "cypress open",
+			  "cypress:run": "cypress run"
+			  },
+  "devDependencies": {
+    "cypress": "^3.1.5"
+  }
+}
