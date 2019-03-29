@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.model.SplitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:49:10" hostname="jlpulgarin-PC" time="9.594">
+  <properties/>
+  <testcase name="shouldCreateInversePair" classname="org.gnucash.android.test.unit.model.SplitTest" time="1.687"/>
+  <testcase name="shouldParseCsv" classname="org.gnucash.android.test.unit.model.SplitTest" time="1.422"/>
+  <testcase name="testCloning" classname="org.gnucash.android.test.unit.model.SplitTest" time="1.563"/>
+  <testcase name="amounts_shouldBeStoredUnsigned" classname="org.gnucash.android.test.unit.model.SplitTest" time="1.703"/>
+  <testcase name="testAddingSplitToTransaction" classname="org.gnucash.android.test.unit.model.SplitTest" time="1.531"/>
+  <testcase name="shouldGenerateValidCsv" classname="org.gnucash.android.test.unit.model.SplitTest" time="1.688"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

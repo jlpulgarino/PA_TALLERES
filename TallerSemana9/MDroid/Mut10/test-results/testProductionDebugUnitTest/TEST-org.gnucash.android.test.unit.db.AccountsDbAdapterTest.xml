@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:11:05" hostname="jlpulgarin-PC" time="192.948">
+  <properties/>
+  <testcase name="shouldClearAllTablesWhenDeletingAllAccounts" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="59.084"/>
+  <testcase name="shouldGetDescendantAccounts" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="7.532"/>
+  <testcase name="shouldRecursivelyDeleteAccount" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="3.937"/>
+  <testcase name="simpleAccountListShouldNotContainTransactions" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="15.719"/>
+  <testcase name="shouldUpdateFullNameAfterParentChange" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="24.621"/>
+  <testcase name="editingAccountShouldNotDeleteTemplateSplits" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="12.57"/>
+  <testcase name="shouldCreateAccountHierarchy" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="2.704"/>
+  <testcase name="shouldAddTransactionsAndSplitsWhenAddingAccounts" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="4.413"/>
+  <testcase name="shouldComputeAccountBalanceCorrectly" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="12.344"/>
+  <testcase name="importingXml_shouldSetDefaultCurrencyFromXml" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="5.625"/>
+  <testcase name="shouldAddAccountsToDatabase" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="3.594"/>
+  <testcase name="shouldCreateImbalanceAccountOnDemand" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="5.203"/>
+  <testcase name="shouldDeleteSplitsWhenAccountDeleted" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="5.563"/>
+  <testcase name="shouldSetDefaultTransferColumnToNull_WhenTheAccountIsDeleted" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="8.281"/>
+  <testcase name="bulkAddAccountsShouldNotModifyTransactions" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="8.09"/>
+  <testcase name="shouldReassignDescendantAccounts" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="7.12"/>
+  <testcase name="shouldCreateDefaultRootAccount" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="2.908"/>
+  <testcase name="shouldBeAlphabeticallySortedByDefault" classname="org.gnucash.android.test.unit.db.AccountsDbAdapterTest" time="3.64"/>
+  <system-out><![CDATA[Default currency is now: US Dollar
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

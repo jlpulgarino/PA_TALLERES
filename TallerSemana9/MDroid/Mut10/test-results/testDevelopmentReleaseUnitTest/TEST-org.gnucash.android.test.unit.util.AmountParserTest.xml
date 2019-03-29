@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.util.AmountParserTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:08:51" hostname="jlpulgarin-PC" time="0.031">
+  <properties/>
+  <testcase name="withGarbageAtTheEnd_shouldFailWithException" classname="org.gnucash.android.test.unit.util.AmountParserTest" time="0.031"/>
+  <testcase name="emptyString_shouldFailWithException" classname="org.gnucash.android.test.unit.util.AmountParserTest" time="0.0"/>
+  <testcase name="parseDecimalAmountWithDifferentSeparator" classname="org.gnucash.android.test.unit.util.AmountParserTest" time="0.0"/>
+  <testcase name="testParseIntegerAmount" classname="org.gnucash.android.test.unit.util.AmountParserTest" time="0.0"/>
+  <testcase name="parseDecimalAmount" classname="org.gnucash.android.test.unit.util.AmountParserTest" time="0.0"/>
+  <testcase name="withGarbageAtTheBeginning_shouldFailWithException" classname="org.gnucash.android.test.unit.util.AmountParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

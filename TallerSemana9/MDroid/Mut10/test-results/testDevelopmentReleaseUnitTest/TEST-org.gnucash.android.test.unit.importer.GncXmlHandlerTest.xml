@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.importer.GncXmlHandlerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:05:24" hostname="jlpulgarin-PC" time="59.927">
+  <properties/>
+  <testcase name="multiCurrencyTransactionImport" classname="org.gnucash.android.test.unit.importer.GncXmlHandlerTest" time="5.187"/>
+  <testcase name="transactionWithNonDefaultSplitsImport" classname="org.gnucash.android.test.unit.importer.GncXmlHandlerTest" time="5.313"/>
+  <testcase name="importingScheduledAction_shouldSetByDays" classname="org.gnucash.android.test.unit.importer.GncXmlHandlerTest" time="8.266"/>
+  <testcase name="simpleTransactionImport" classname="org.gnucash.android.test.unit.importer.GncXmlHandlerTest" time="7.349"/>
+  <testcase name="accountsImport" classname="org.gnucash.android.test.unit.importer.GncXmlHandlerTest" time="9.411"/>
+  <testcase name="bug562_scheduledTransactionImportedWithImbalancedSplits" classname="org.gnucash.android.test.unit.importer.GncXmlHandlerTest" time="24.401"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

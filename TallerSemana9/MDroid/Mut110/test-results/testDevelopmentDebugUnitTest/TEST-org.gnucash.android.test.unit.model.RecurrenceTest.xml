@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.model.RecurrenceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:55:00" hostname="jlpulgarin-PC" time="0.063">
+  <properties/>
+  <testcase name="settingCount_shouldComputeCorrectEndTime" classname="org.gnucash.android.test.unit.model.RecurrenceTest" time="0.047"/>
+  <testcase name="testRecurrenceCountComputation" classname="org.gnucash.android.test.unit.model.RecurrenceTest" time="0.016"/>
+  <testcase name="notSettingEndDate_shouldReturnSpecialCountValue" classname="org.gnucash.android.test.unit.model.RecurrenceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

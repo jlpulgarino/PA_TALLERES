@@ -1,0 +1,1110 @@
+Selected Operators: 38
+22 NullMethodCallArgument
+23 ClosingNullCursor
+24 InvalidIndexQueryParameter
+25 InvalidSQLQuery
+26 ViewComponentNotVisible
+27 FindViewByIdReturnsNull
+28 InvalidColor
+29 InvalidViewFocus
+30 BuggyGUIListener
+31 InvalidIDFindView
+10 WrongStringResource
+32 InvalidFilePath
+11 NotParcelable
+33 NullInputStream
+12 SDKVersion
+34 NotSerializable
+13 LengthyBackEndService
+35 OOMLargeImage
+14 LongConnectionTimeOut
+36 LengthyGUIListener
+15 BluetoothAdapterAlwaysEnabled
+37 NullOutputStream
+16 NullBluetoothAdapter
+38 LengthyGUICreation
+17 InvalidURI
+18 NullGPSLocation
+19 InvalidDate
+1 ActivityNotDefined
+2 DifferentActivityIntentDefinition
+3 InvalidActivityName
+4 InvalidKeyIntentPutExtra
+5 InvalidLabel
+6 NullIntent
+7 NullValueIntentPutExtra
+8 WrongMainActivity
+9 MissingPermissionManifest
+20 NullBackEndServiceReturn
+21 InvalidMethodCallArgument
+------------
+
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:53, end line: 78, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:79, end line: 83, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:84, end line: 84, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:85, end line: 86, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:87, end line: 87, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:88, end line: 95, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:96, end line: 97, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:98, end line: 99, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:100, end line: 101, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:102, end line: 103, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:104, end line: 105, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:106, end line: 107, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:108, end line: 119, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:18, end line: 18, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:19, end line: 19, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:20, end line: 20, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:21, end line: 21, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:22, end line: 22, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:23, end line: 23, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:24, end line: 24, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:25, end line: 25, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:26, end line: 26, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:27, end line: 27, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:28, end line: 28, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:29, end line: 29, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:30, end line: 30, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:31, end line: 31, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:32, end line: 32, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:33, end line: 33, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:34, end line: 34, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:35, end line: 35, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:36, end line: 36, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:37, end line: 37, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:38, end line: 38, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:39, end line: 39, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:40, end line: 40, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:41, end line: 41, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:42, end line: 42, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:43, end line: 43, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:44, end line: 44, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:45, end line: 45, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:46, end line: 46, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:47, end line: 47, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:48, end line: 48, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:49, end line: 49, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:50, end line: 50, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:51, end line: 51, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:52, end line: 52, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:53, end line: 53, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:54, end line: 54, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:55, end line: 55, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:56, end line: 56, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:63, end line: 63, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:64, end line: 64, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:65, end line: 65, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:66, end line: 66, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:67, end line: 67, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:68, end line: 68, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:69, end line: 69, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:70, end line: 70, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:71, end line: 71, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:72, end line: 72, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:73, end line: 73, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:74, end line: 74, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:75, end line: 75, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:76, end line: 76, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:77, end line: 77, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:78, end line: 78, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:79, end line: 79, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:80, end line: 80, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:81, end line: 81, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:82, end line: 82, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:83, end line: 83, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:84, end line: 84, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:85, end line: 85, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:86, end line: 86, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:87, end line: 87, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:88, end line: 88, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:89, end line: 89, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:90, end line: 90, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:91, end line: 91, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:92, end line: 92, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:93, end line: 93, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:94, end line: 94, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:95, end line: 95, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:96, end line: 96, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:97, end line: 97, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:102, end line: 102, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:103, end line: 103, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:104, end line: 104, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:105, end line: 105, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:106, end line: 106, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:107, end line: 107, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:108, end line: 108, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:109, end line: 109, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:110, end line: 110, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:111, end line: 111, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:112, end line: 112, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:113, end line: 113, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:114, end line: 114, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:115, end line: 115, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:116, end line: 116, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:117, end line: 117, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:118, end line: 123, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:124, end line: 124, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:125, end line: 125, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:126, end line: 126, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:127, end line: 127, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:128, end line: 128, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:129, end line: 129, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:130, end line: 132, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:133, end line: 133, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:134, end line: 134, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:135, end line: 135, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:136, end line: 138, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:139, end line: 139, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:140, end line: 140, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:141, end line: 141, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:142, end line: 142, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:143, end line: 143, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:144, end line: 144, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:145, end line: 145, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:146, end line: 146, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:147, end line: 147, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:148, end line: 148, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:150, end line: 150, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:151, end line: 151, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:152, end line: 152, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:153, end line: 153, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:154, end line: 154, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:155, end line: 155, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:183, end line: 183, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:185, end line: 185, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:187, end line: 187, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:188, end line: 188, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:189, end line: 189, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:190, end line: 190, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:191, end line: 191, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:192, end line: 192, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:193, end line: 193, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:194, end line: 194, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:195, end line: 195, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:196, end line: 196, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:197, end line: 197, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:198, end line: 198, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:199, end line: 199, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:200, end line: 200, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:201, end line: 201, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:202, end line: 202, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:203, end line: 203, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:204, end line: 204, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:205, end line: 205, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:206, end line: 206, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:207, end line: 207, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:208, end line: 208, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:209, end line: 209, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:210, end line: 210, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:211, end line: 211, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:212, end line: 212, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:213, end line: 213, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:214, end line: 214, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:215, end line: 215, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:216, end line: 217, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:218, end line: 218, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:219, end line: 219, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:220, end line: 220, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:221, end line: 221, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:222, end line: 222, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:223, end line: 223, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:224, end line: 224, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:225, end line: 225, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:226, end line: 226, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:227, end line: 227, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:228, end line: 228, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:229, end line: 229, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:230, end line: 230, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:231, end line: 231, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:232, end line: 232, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:233, end line: 233, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:234, end line: 234, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:235, end line: 235, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:236, end line: 236, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:237, end line: 237, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:238, end line: 238, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:239, end line: 239, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:240, end line: 240, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:241, end line: 241, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:242, end line: 242, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:243, end line: 243, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:244, end line: 244, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:245, end line: 245, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:246, end line: 246, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:247, end line: 247, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:248, end line: 248, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:249, end line: 249, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:250, end line: 250, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:251, end line: 251, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:252, end line: 252, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:253, end line: 253, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:254, end line: 254, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:255, end line: 255, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:256, end line: 256, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:257, end line: 257, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:258, end line: 258, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:259, end line: 259, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:260, end line: 260, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:261, end line: 261, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:262, end line: 262, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:263, end line: 263, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:264, end line: 264, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:265, end line: 265, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:266, end line: 266, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:267, end line: 267, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:268, end line: 268, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:269, end line: 269, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:270, end line: 270, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:271, end line: 271, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:272, end line: 272, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:273, end line: 273, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:274, end line: 274, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:275, end line: 275, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:276, end line: 276, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:277, end line: 277, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:278, end line: 278, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:279, end line: 279, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:280, end line: 280, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:301, end line: 301, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:302, end line: 302, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:303, end line: 303, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:304, end line: 304, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:305, end line: 305, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:306, end line: 306, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:307, end line: 307, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:308, end line: 308, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:309, end line: 309, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:310, end line: 310, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:311, end line: 311, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:312, end line: 312, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:313, end line: 313, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:314, end line: 314, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:315, end line: 315, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:316, end line: 316, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:317, end line: 317, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:318, end line: 318, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:319, end line: 319, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:320, end line: 320, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:321, end line: 321, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:322, end line: 322, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:323, end line: 323, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:324, end line: 324, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:325, end line: 325, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:326, end line: 326, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:327, end line: 327, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:328, end line: 328, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:329, end line: 329, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:330, end line: 330, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:331, end line: 331, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:332, end line: 332, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:333, end line: 333, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:334, end line: 334, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:335, end line: 335, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:336, end line: 336, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:337, end line: 337, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:338, end line: 338, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:339, end line: 339, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:340, end line: 340, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:341, end line: 341, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:342, end line: 342, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:343, end line: 343, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:344, end line: 344, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:345, end line: 345, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:346, end line: 346, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:347, end line: 347, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:348, end line: 348, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:349, end line: 349, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:350, end line: 350, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:351, end line: 351, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:352, end line: 352, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:353, end line: 353, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:354, end line: 354, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:355, end line: 355, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:356, end line: 356, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:357, end line: 357, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:358, end line: 358, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:359, end line: 359, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:360, end line: 360, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:361, end line: 361, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:362, end line: 362, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:363, end line: 363, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:364, end line: 364, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:365, end line: 365, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:366, end line: 366, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:367, end line: 367, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:368, end line: 368, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:369, end line: 369, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:370, end line: 370, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:371, end line: 371, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:372, end line: 372, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:373, end line: 373, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:374, end line: 374, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:385, end line: 385, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:387, end line: 387, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:388, end line: 388, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:389, end line: 389, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:390, end line: 390, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:391, end line: 391, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:392, end line: 392, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:393, end line: 393, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:394, end line: 394, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:395, end line: 395, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:396, end line: 396, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:397, end line: 397, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:398, end line: 398, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:399, end line: 399, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:400, end line: 400, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:401, end line: 401, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:402, end line: 402, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:403, end line: 403, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:404, end line: 404, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:405, end line: 405, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:407, end line: 407, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:408, end line: 408, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:409, end line: 409, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:410, end line: 410, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:411, end line: 411, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:412, end line: 412, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:413, end line: 413, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:414, end line: 414, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:415, end line: 415, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:416, end line: 416, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:417, end line: 417, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:418, end line: 418, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:435, end line: 435, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:436, end line: 436, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:437, end line: 437, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:438, end line: 438, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:439, end line: 439, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:440, end line: 440, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:441, end line: 441, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:442, end line: 442, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:443, end line: 443, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:444, end line: 444, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:445, end line: 445, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:446, end line: 446, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:447, end line: 447, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:448, end line: 448, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:449, end line: 449, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:450, end line: 450, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:451, end line: 451, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:452, end line: 452, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:453, end line: 453, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:454, end line: 454, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:455, end line: 455, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:456, end line: 456, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:457, end line: 457, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:458, end line: 458, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:460, end line: 460, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:461, end line: 461, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:462, end line: 462, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:463, end line: 463, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:464, end line: 464, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:465, end line: 465, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:466, end line: 466, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:467, end line: 467, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:468, end line: 468, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\strings.xml, start line:469, end line: 469, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:53, end line: 55, start column26
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:79, end line: 82, start column26
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:84, end line: 84, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:85, end line: 86, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:87, end line: 87, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:88, end line: 91, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:96, end line: 97, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:98, end line: 99, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:100, end line: 101, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:102, end line: 103, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:104, end line: 105, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:106, end line: 107, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:108, end line: 111, start column26
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:53, end line: 55, start column27
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:88, end line: 91, start column27
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:53, end line: 55, start column26
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:34, end line: 35, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:36, end line: 37, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:39, end line: 40, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:41, end line: 41, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:42, end line: 43, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:44, end line: 45, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\AndroidManifest.xml, start line:46, end line: 46, start column0
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:17, end line: 17, start column29
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:18, end line: 18, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:19, end line: 19, start column30
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:20, end line: 20, start column31
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:21, end line: 21, start column40
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:22, end line: 22, start column31
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:23, end line: 23, start column33
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:24, end line: 24, start column31
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:25, end line: 25, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:26, end line: 26, start column32
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:27, end line: 27, start column34
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:28, end line: 28, start column42
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:30, end line: 30, start column33
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:31, end line: 31, start column38
+File: C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\res\values\colors.xml, start line:32, end line: 32, start column32
+NullInputStream: true
+API_ID: 33; API_CALL: FileChannel.close
+API_ID: 33; API_CALL: InputStream.close
+API_ID: 33; API_CALL: BufferedInputStream.close
+API_ID: 33; API_CALL: ByteArrayInputStream.close
+API_ID: 33; API_CALL: DataInputStream.close
+API_ID: 33; API_CALL: FilterInputStream.close
+API_ID: 33; API_CALL: ObjectInputStream.close
+API_ID: 33; API_CALL: PipedInputStream.close
+API_ID: 33; API_CALL: SequenceInputStream.close
+API_ID: 33; API_CALL: StringBufferInputStream.close
+ClosingNullCursor: true
+API_ID: 23; API_CALL: Cursor.close
+InvalidIndexQueryParameter: true
+API_ID: 24; API_CALL: SQLiteDatabase.rawQuery
+OOMLargeImage: true
+API_ID: 35; API_CALL: Bitmap.createScaledBitmap
+LengthyBackEndService: true
+API_ID: 13; API_CALL: HttpClient.execute
+InvalidSQLQuery: true
+API_ID: 25; API_CALL: SQLiteDatabase.rawQuery
+LengthyGUIListener: true
+API_ID: 36; API_CALL: View.OnClickListener
+LongConnectionTimeOut: true
+API_ID: 14; API_CALL: HttpConnectionParams.setConnectionTimeout
+ViewComponentNotVisible: true
+API_ID: 26; API_CALL: Activity.findViewById
+NullOutputStream: true
+API_ID: 37; API_CALL: OutputStream.close
+API_ID: 37; API_CALL: ByteArrayOutputStream.close
+API_ID: 37; API_CALL: FileOutputStream.close
+API_ID: 37; API_CALL: FilterOutputStream.close
+API_ID: 37; API_CALL: ObjectOutputStream.close
+API_ID: 37; API_CALL: PipedOutputStream.close
+API_ID: 37; API_CALL: BufferedOutputStream.close
+API_ID: 37; API_CALL: PrintStream.close
+API_ID: 37; API_CALL: DataOutputStream.close
+BluetoothAdapterAlwaysEnabled: true
+API_ID: 15; API_CALL: BluetoothAdapter.isEnabled
+FindViewByIdReturnsNull: true
+API_ID: 27; API_CALL: Activity.findViewById
+NullBluetoothAdapter: true
+API_ID: 16; API_CALL: BluetoothAdapter.getDefaultAdapter
+InvalidURI: true
+API_ID: 17; API_CALL: URI.<init>
+NullGPSLocation: true
+API_ID: 18; API_CALL: Location.<init>
+InvalidDate: true
+API_ID: 19; API_CALL: Date.<init>
+DifferentActivityIntentDefinition: true
+API_ID: 2; API_CALL: Intent.<init>
+InvalidKeyIntentPutExtra: true
+API_ID: 4; API_CALL: Intent.putExtra
+NullIntent: true
+API_ID: 6; API_CALL: Intent.<init>
+NullValueIntentPutExtra: true
+API_ID: 7; API_CALL: Intent.putExtra
+BuggyGUIListener: true
+API_ID: 30; API_CALL: View.OnClickListener
+InvalidIDFindView: true
+API_ID: 31; API_CALL: Activity.findViewById
+NullBackEndServiceReturn: true
+API_ID: 20; API_CALL: HttpClient.execute
+InvalidFilePath: true
+API_ID: 32; API_CALL: File.<init>
+LengthyGUICreation: true
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\app\GnuCashApplication.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\AccountsDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\BooksDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\BudgetAmountsDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\BudgetsDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\CommoditiesDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\DatabaseAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\PricesDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\RecurrenceDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\ScheduledActionDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\SplitsDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\adapter\TransactionsDbAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\BookDbHelper.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\DatabaseCursorLoader.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\DatabaseHelper.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\DatabaseSchema.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\db\MigrationHelper.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\csv\CsvAccountExporter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\csv\CsvTransactionsExporter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\csv\CsvWriter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\DropboxHelper.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\ExportAsyncTask.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\Exporter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\ExportFormat.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\ExportParams.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\ofx\OfxExporter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\ofx\OfxHelper.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\qif\QifExporter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\qif\QifHelper.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\xml\GncXmlExporter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\export\xml\GncXmlHelper.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\importer\CommoditiesXmlHandler.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\importer\GncXmlHandler.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\importer\GncXmlImporter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\importer\ImportAsyncTask.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Account.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\AccountType.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\BaseModel.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Book.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Budget.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\BudgetAmount.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Commodity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Money.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\PeriodType.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Price.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Recurrence.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\ScheduledAction.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Split.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\Transaction.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\model\TransactionType.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\receivers\AccountCreator.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\receivers\BootReceiver.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\receivers\PeriodicJobReceiver.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\receivers\TransactionAppWidgetProvider.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\receivers\TransactionRecorder.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\service\ScheduledActionService.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\account\AccountFormFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\account\AccountsActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\account\AccountsListFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\account\DeleteAccountDialogFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\account\OnAccountClickedListener.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\budget\BudgetAmountEditorFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\budget\BudgetDetailFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\budget\BudgetFormFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\budget\BudgetListFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\budget\BudgetsActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\colorpicker\ColorPickerDialog.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\colorpicker\ColorPickerPalette.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\colorpicker\ColorPickerSwatch.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\colorpicker\ColorSquare.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\colorpicker\ColorStateDrawable.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\colorpicker\HsvColorComparator.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\common\BaseDrawerActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\common\FormActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\common\Refreshable.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\common\UxArgument.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\export\ExportFormFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\homescreen\WidgetConfigurationActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\passcode\KeyboardFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\passcode\PasscodeLockActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\passcode\PasscodeLockScreenActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\passcode\PasscodePreferenceActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\barchart\StackedBarChartFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\BaseReportFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\linechart\CashFlowLineChartFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\piechart\PieChartFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\ReportOptionsListener.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\ReportsActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\ReportsOverviewFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\ReportType.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\report\sheet\BalanceSheetFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\AboutPreferenceFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\AccountPreferencesFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\BackupPreferenceFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\BookManagerFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\dialog\DeleteAllAccountsConfirmationDialog.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\dialog\DeleteAllTransactionsConfirmationDialog.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\dialog\DeleteBookConfirmationDialog.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\dialog\DoubleConfirmationDialog.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\dialog\OwnCloudDialogFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\GeneralPreferenceFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\PreferenceActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\PreferenceHeadersFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\settings\TransactionsPreferenceFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\dialog\BulkMoveDialogFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\dialog\TransactionsDeleteConfirmationDialogFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\dialog\TransferFundsDialogFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\OnTransactionClickedListener.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\OnTransferFundsListener.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\ScheduledActionsActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\ScheduledActionsListFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\SplitEditorFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\TransactionDetailActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\TransactionFormFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\TransactionsActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\transaction\TransactionsListFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\AccountBalanceTask.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\CursorRecyclerAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\dialog\DatePickerDialogFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\dialog\DateRangePickerDialogFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\dialog\TimePickerDialogFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\RecurrenceParser.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\RecurrenceViewClickListener.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\ScrollingFABBehavior.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\TaskDelegate.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\widget\CalculatorEditText.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\widget\CalculatorKeyboard.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\widget\CheckableLinearLayout.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\widget\EmptyRecyclerView.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\widget\ReselectSpinner.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\util\widget\TransactionTypeSwitch.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\wizard\CurrencySelectFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\wizard\CurrencySelectPage.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\wizard\FirstRunWizardActivity.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\wizard\FirstRunWizardModel.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\wizard\WelcomePage.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\ui\wizard\WelcomePageFragment.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\AmountParser.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\BackupJob.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\BackupManager.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\BookUtils.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\CommoditiesCursorAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\FileUtils.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\PreferencesHelper.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\QualifiedAccountNameCursorAdapter.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\RecursiveMoveFiles.java
+C:\MISO_WRKSPACE\PruebasAuto\MutationTesting\gnucash\gnucash-android\app\src\main\java\org\gnucash\android\util\TimestampHelper.java
+Activites: 0
+----------------------
+AST LOCATIONS FOUND
+----------------------
+MutationType: ACTIVITY_NOT_DEFINED
+Locations: 13
+MutationType: WRONG_STRING_RESOURCE
+Locations: 353
+MutationType: SDK_VERSION
+Locations: 0
+MutationType: INVALID_ACTIVITY_PATH
+Locations: 13
+MutationType: INVALID_LABEL
+Locations: 2
+MutationType: WRONG_MAIN_ACTIVITY
+Locations: 1
+MutationType: MISSING_PERMISSION_MANIFEST
+Locations: 7
+MutationType: INVALID_COLOR
+Locations: 15
+ACTIVITY_NOT_DEFINED
+WRONG_STRING_RESOURCE
+SDK_VERSION
+INVALID_ACTIVITY_PATH
+INVALID_LABEL
+WRONG_MAIN_ACTIVITY
+MISSING_PERMISSION_MANIFEST
+INVALID_COLOR
+----------------------
+EXACT LOCATIONS
+----------------------
+MutationType: ACTIVITY_NOT_DEFINED
+Locations: 13
+MutationType: WRONG_STRING_RESOURCE
+Locations: 353
+MutationType: SDK_VERSION
+Locations: 0
+MutationType: INVALID_ACTIVITY_PATH
+Locations: 13
+MutationType: INVALID_LABEL
+Locations: 2
+MutationType: WRONG_MAIN_ACTIVITY
+Locations: 1
+MutationType: MISSING_PERMISSION_MANIFEST
+Locations: 7
+MutationType: INVALID_COLOR
+Locations: 15
+Total Locations: 404
+Mutant: 1 - ActivityNotDefined
+Mutant: 2 - ActivityNotDefined
+Mutant: 3 - ActivityNotDefined
+Mutant: 4 - ActivityNotDefined
+Mutant: 5 - ActivityNotDefined
+Mutant: 6 - ActivityNotDefined
+Mutant: 7 - ActivityNotDefined
+Mutant: 8 - ActivityNotDefined
+Mutant: 9 - ActivityNotDefined
+Mutant: 10 - ActivityNotDefined
+Mutant: 11 - ActivityNotDefined
+Mutant: 12 - ActivityNotDefined
+Mutant: 13 - ActivityNotDefined
+Mutant: 14 - WrongStringResource
+Mutant: 15 - WrongStringResource
+Mutant: 16 - WrongStringResource
+Mutant: 17 - WrongStringResource
+Mutant: 18 - WrongStringResource
+Mutant: 19 - WrongStringResource
+Mutant: 20 - WrongStringResource
+Mutant: 21 - WrongStringResource
+Mutant: 22 - WrongStringResource
+Mutant: 23 - WrongStringResource
+Mutant: 24 - WrongStringResource
+Mutant: 25 - WrongStringResource
+Mutant: 26 - WrongStringResource
+Mutant: 27 - WrongStringResource
+Mutant: 28 - WrongStringResource
+Mutant: 29 - WrongStringResource
+Mutant: 30 - WrongStringResource
+Mutant: 31 - WrongStringResource
+Mutant: 32 - WrongStringResource
+Mutant: 33 - WrongStringResource
+Mutant: 34 - WrongStringResource
+Mutant: 35 - WrongStringResource
+Mutant: 36 - WrongStringResource
+Mutant: 37 - WrongStringResource
+Mutant: 38 - WrongStringResource
+Mutant: 39 - WrongStringResource
+Mutant: 40 - WrongStringResource
+Mutant: 41 - WrongStringResource
+Mutant: 42 - WrongStringResource
+Mutant: 43 - WrongStringResource
+Mutant: 44 - WrongStringResource
+Mutant: 45 - WrongStringResource
+Mutant: 46 - WrongStringResource
+Mutant: 47 - WrongStringResource
+Mutant: 48 - WrongStringResource
+Mutant: 49 - WrongStringResource
+Mutant: 50 - WrongStringResource
+Mutant: 51 - WrongStringResource
+Mutant: 52 - WrongStringResource
+Mutant: 53 - WrongStringResource
+Mutant: 54 - WrongStringResource
+Mutant: 55 - WrongStringResource
+Mutant: 56 - WrongStringResource
+Mutant: 57 - WrongStringResource
+Mutant: 58 - WrongStringResource
+Mutant: 59 - WrongStringResource
+Mutant: 60 - WrongStringResource
+Mutant: 61 - WrongStringResource
+Mutant: 62 - WrongStringResource
+Mutant: 63 - WrongStringResource
+Mutant: 64 - WrongStringResource
+Mutant: 65 - WrongStringResource
+Mutant: 66 - WrongStringResource
+Mutant: 67 - WrongStringResource
+Mutant: 68 - WrongStringResource
+Mutant: 69 - WrongStringResource
+Mutant: 70 - WrongStringResource
+Mutant: 71 - WrongStringResource
+Mutant: 72 - WrongStringResource
+Mutant: 73 - WrongStringResource
+Mutant: 74 - WrongStringResource
+Mutant: 75 - WrongStringResource
+Mutant: 76 - WrongStringResource
+Mutant: 77 - WrongStringResource
+Mutant: 78 - WrongStringResource
+Mutant: 79 - WrongStringResource
+Mutant: 80 - WrongStringResource
+Mutant: 81 - WrongStringResource
+Mutant: 82 - WrongStringResource
+Mutant: 83 - WrongStringResource
+Mutant: 84 - WrongStringResource
+Mutant: 85 - WrongStringResource
+Mutant: 86 - WrongStringResource
+Mutant: 87 - WrongStringResource
+Mutant: 88 - WrongStringResource
+Mutant: 89 - WrongStringResource
+Mutant: 90 - WrongStringResource
+Mutant: 91 - WrongStringResource
+Mutant: 92 - WrongStringResource
+Mutant: 93 - WrongStringResource
+Mutant: 94 - WrongStringResource
+Mutant: 95 - WrongStringResource
+Mutant: 96 - WrongStringResource
+Mutant: 97 - WrongStringResource
+Mutant: 98 - WrongStringResource
+Mutant: 99 - WrongStringResource
+Mutant: 100 - WrongStringResource
+Mutant: 101 - WrongStringResource
+Mutant: 102 - WrongStringResource
+Mutant: 103 - WrongStringResource
+Mutant: 104 - WrongStringResource
+Mutant: 105 - WrongStringResource
+Mutant: 106 - WrongStringResource
+Mutant: 107 - WrongStringResource
+Mutant: 108 - WrongStringResource
+Mutant: 109 - WrongStringResource
+Mutant: 110 - WrongStringResource
+Mutant: 111 - WrongStringResource
+Mutant: 112 - WrongStringResource
+Mutant: 113 - WrongStringResource
+Mutant: 114 - WrongStringResource
+Mutant: 115 - WrongStringResource
+Mutant: 116 - WrongStringResource
+Mutant: 117 - WrongStringResource
+Mutant: 118 - WrongStringResource
+Mutant: 119 - WrongStringResource
+Mutant: 120 - WrongStringResource
+Mutant: 121 - WrongStringResource
+Mutant: 122 - WrongStringResource
+Mutant: 123 - WrongStringResource
+Mutant: 124 - WrongStringResource
+Mutant: 125 - WrongStringResource
+Mutant: 126 - WrongStringResource
+Mutant: 127 - WrongStringResource
+Mutant: 128 - WrongStringResource
+Mutant: 129 - WrongStringResource
+Mutant: 130 - WrongStringResource
+Mutant: 131 - WrongStringResource
+Mutant: 132 - WrongStringResource
+Mutant: 133 - WrongStringResource
+Mutant: 134 - WrongStringResource
+Mutant: 135 - WrongStringResource
+Mutant: 136 - WrongStringResource
+Mutant: 137 - WrongStringResource
+Mutant: 138 - WrongStringResource
+Mutant: 139 - WrongStringResource
+Mutant: 140 - WrongStringResource
+Mutant: 141 - WrongStringResource
+Mutant: 142 - WrongStringResource
+Mutant: 143 - WrongStringResource
+Mutant: 144 - WrongStringResource
+Mutant: 145 - WrongStringResource
+Mutant: 146 - WrongStringResource
+Mutant: 147 - WrongStringResource
+Mutant: 148 - WrongStringResource
+Mutant: 149 - WrongStringResource
+Mutant: 150 - WrongStringResource
+Mutant: 151 - WrongStringResource
+Mutant: 152 - WrongStringResource
+Mutant: 153 - WrongStringResource
+Mutant: 154 - WrongStringResource
+Mutant: 155 - WrongStringResource
+Mutant: 156 - WrongStringResource
+Mutant: 157 - WrongStringResource
+Mutant: 158 - WrongStringResource
+Mutant: 159 - WrongStringResource
+Mutant: 160 - WrongStringResource
+Mutant: 161 - WrongStringResource
+Mutant: 162 - WrongStringResource
+Mutant: 163 - WrongStringResource
+Mutant: 164 - WrongStringResource
+Mutant: 165 - WrongStringResource
+Mutant: 166 - WrongStringResource
+Mutant: 167 - WrongStringResource
+Mutant: 168 - WrongStringResource
+Mutant: 169 - WrongStringResource
+Mutant: 170 - WrongStringResource
+Mutant: 171 - WrongStringResource
+Mutant: 172 - WrongStringResource
+Mutant: 173 - WrongStringResource
+Mutant: 174 - WrongStringResource
+Mutant: 175 - WrongStringResource
+Mutant: 176 - WrongStringResource
+Mutant: 177 - WrongStringResource
+Mutant: 178 - WrongStringResource
+Mutant: 179 - WrongStringResource
+Mutant: 180 - WrongStringResource
+Mutant: 181 - WrongStringResource
+Mutant: 182 - WrongStringResource
+Mutant: 183 - WrongStringResource
+Mutant: 184 - WrongStringResource
+Mutant: 185 - WrongStringResource
+Mutant: 186 - WrongStringResource
+Mutant: 187 - WrongStringResource
+Mutant: 188 - WrongStringResource
+Mutant: 189 - WrongStringResource
+Mutant: 190 - WrongStringResource
+Mutant: 191 - WrongStringResource
+Mutant: 192 - WrongStringResource
+Mutant: 193 - WrongStringResource
+Mutant: 194 - WrongStringResource
+Mutant: 195 - WrongStringResource
+Mutant: 196 - WrongStringResource
+Mutant: 197 - WrongStringResource
+Mutant: 198 - WrongStringResource
+Mutant: 199 - WrongStringResource
+Mutant: 200 - WrongStringResource
+Mutant: 201 - WrongStringResource
+Mutant: 202 - WrongStringResource
+Mutant: 203 - WrongStringResource
+Mutant: 204 - WrongStringResource
+Mutant: 205 - WrongStringResource
+Mutant: 206 - WrongStringResource
+Mutant: 207 - WrongStringResource
+Mutant: 208 - WrongStringResource
+Mutant: 209 - WrongStringResource
+Mutant: 210 - WrongStringResource
+Mutant: 211 - WrongStringResource
+Mutant: 212 - WrongStringResource
+Mutant: 213 - WrongStringResource
+Mutant: 214 - WrongStringResource
+Mutant: 215 - WrongStringResource
+Mutant: 216 - WrongStringResource
+Mutant: 217 - WrongStringResource
+Mutant: 218 - WrongStringResource
+Mutant: 219 - WrongStringResource
+Mutant: 220 - WrongStringResource
+Mutant: 221 - WrongStringResource
+Mutant: 222 - WrongStringResource
+Mutant: 223 - WrongStringResource
+Mutant: 224 - WrongStringResource
+Mutant: 225 - WrongStringResource
+Mutant: 226 - WrongStringResource
+Mutant: 227 - WrongStringResource
+Mutant: 228 - WrongStringResource
+Mutant: 229 - WrongStringResource
+Mutant: 230 - WrongStringResource
+Mutant: 231 - WrongStringResource
+Mutant: 232 - WrongStringResource
+Mutant: 233 - WrongStringResource
+Mutant: 234 - WrongStringResource
+Mutant: 235 - WrongStringResource
+Mutant: 236 - WrongStringResource
+Mutant: 237 - WrongStringResource
+Mutant: 238 - WrongStringResource
+Mutant: 239 - WrongStringResource
+Mutant: 240 - WrongStringResource
+Mutant: 241 - WrongStringResource
+Mutant: 242 - WrongStringResource
+Mutant: 243 - WrongStringResource
+Mutant: 244 - WrongStringResource
+Mutant: 245 - WrongStringResource
+Mutant: 246 - WrongStringResource
+Mutant: 247 - WrongStringResource
+Mutant: 248 - WrongStringResource
+Mutant: 249 - WrongStringResource
+Mutant: 250 - WrongStringResource
+Mutant: 251 - WrongStringResource
+Mutant: 252 - WrongStringResource
+Mutant: 253 - WrongStringResource
+Mutant: 254 - WrongStringResource
+Mutant: 255 - WrongStringResource
+Mutant: 256 - WrongStringResource
+Mutant: 257 - WrongStringResource
+Mutant: 258 - WrongStringResource
+Mutant: 259 - WrongStringResource
+Mutant: 260 - WrongStringResource
+Mutant: 261 - WrongStringResource
+Mutant: 262 - WrongStringResource
+Mutant: 263 - WrongStringResource
+Mutant: 264 - WrongStringResource
+Mutant: 265 - WrongStringResource
+Mutant: 266 - WrongStringResource
+Mutant: 267 - WrongStringResource
+Mutant: 268 - WrongStringResource
+Mutant: 269 - WrongStringResource
+Mutant: 270 - WrongStringResource
+Mutant: 271 - WrongStringResource
+Mutant: 272 - WrongStringResource
+Mutant: 273 - WrongStringResource
+Mutant: 274 - WrongStringResource
+Mutant: 275 - WrongStringResource
+Mutant: 276 - WrongStringResource
+Mutant: 277 - WrongStringResource
+Mutant: 278 - WrongStringResource
+Mutant: 279 - WrongStringResource
+Mutant: 280 - WrongStringResource
+Mutant: 281 - WrongStringResource
+Mutant: 282 - WrongStringResource
+Mutant: 283 - WrongStringResource
+Mutant: 284 - WrongStringResource
+Mutant: 285 - WrongStringResource
+Mutant: 286 - WrongStringResource
+Mutant: 287 - WrongStringResource
+Mutant: 288 - WrongStringResource
+Mutant: 289 - WrongStringResource
+Mutant: 290 - WrongStringResource
+Mutant: 291 - WrongStringResource
+Mutant: 292 - WrongStringResource
+Mutant: 293 - WrongStringResource
+Mutant: 294 - WrongStringResource
+Mutant: 295 - WrongStringResource
+Mutant: 296 - WrongStringResource
+Mutant: 297 - WrongStringResource
+Mutant: 298 - WrongStringResource
+Mutant: 299 - WrongStringResource
+Mutant: 300 - WrongStringResource
+Mutant: 301 - WrongStringResource
+Mutant: 302 - WrongStringResource
+Mutant: 303 - WrongStringResource
+Mutant: 304 - WrongStringResource
+Mutant: 305 - WrongStringResource
+Mutant: 306 - WrongStringResource
+Mutant: 307 - WrongStringResource
+Mutant: 308 - WrongStringResource
+Mutant: 309 - WrongStringResource
+Mutant: 310 - WrongStringResource
+Mutant: 311 - WrongStringResource
+Mutant: 312 - WrongStringResource
+Mutant: 313 - WrongStringResource
+Mutant: 314 - WrongStringResource
+Mutant: 315 - WrongStringResource
+Mutant: 316 - WrongStringResource
+Mutant: 317 - WrongStringResource
+Mutant: 318 - WrongStringResource
+Mutant: 319 - WrongStringResource
+Mutant: 320 - WrongStringResource
+Mutant: 321 - WrongStringResource
+Mutant: 322 - WrongStringResource
+Mutant: 323 - WrongStringResource
+Mutant: 324 - WrongStringResource
+Mutant: 325 - WrongStringResource
+Mutant: 326 - WrongStringResource
+Mutant: 327 - WrongStringResource
+Mutant: 328 - WrongStringResource
+Mutant: 329 - WrongStringResource
+Mutant: 330 - WrongStringResource
+Mutant: 331 - WrongStringResource
+Mutant: 332 - WrongStringResource
+Mutant: 333 - WrongStringResource
+Mutant: 334 - WrongStringResource
+Mutant: 335 - WrongStringResource
+Mutant: 336 - WrongStringResource
+Mutant: 337 - WrongStringResource
+Mutant: 338 - WrongStringResource
+Mutant: 339 - WrongStringResource
+Mutant: 340 - WrongStringResource
+Mutant: 341 - WrongStringResource
+Mutant: 342 - WrongStringResource
+Mutant: 343 - WrongStringResource
+Mutant: 344 - WrongStringResource
+Mutant: 345 - WrongStringResource
+Mutant: 346 - WrongStringResource
+Mutant: 347 - WrongStringResource
+Mutant: 348 - WrongStringResource
+Mutant: 349 - WrongStringResource
+Mutant: 350 - WrongStringResource
+Mutant: 351 - WrongStringResource
+Mutant: 352 - WrongStringResource
+Mutant: 353 - WrongStringResource
+Mutant: 354 - WrongStringResource
+Mutant: 355 - WrongStringResource
+Mutant: 356 - WrongStringResource
+Mutant: 357 - WrongStringResource
+Mutant: 358 - WrongStringResource
+Mutant: 359 - WrongStringResource
+Mutant: 360 - WrongStringResource
+Mutant: 361 - WrongStringResource
+Mutant: 362 - WrongStringResource
+Mutant: 363 - WrongStringResource
+Mutant: 364 - WrongStringResource
+Mutant: 365 - WrongStringResource
+Mutant: 366 - WrongStringResource
+Mutant: 367 - InvalidActivityPATH
+Mutant: 368 - InvalidActivityPATH
+Mutant: 369 - InvalidActivityPATH
+Mutant: 370 - InvalidActivityPATH
+Mutant: 371 - InvalidActivityPATH
+Mutant: 372 - InvalidActivityPATH
+Mutant: 373 - InvalidActivityPATH
+Mutant: 374 - InvalidActivityPATH
+Mutant: 375 - InvalidActivityPATH
+Mutant: 376 - InvalidActivityPATH
+Mutant: 377 - InvalidActivityPATH
+Mutant: 378 - InvalidActivityPATH
+Mutant: 379 - InvalidActivityPATH
+Mutant: 380 - InvalidLabel
+Mutant: 381 - InvalidLabel
+Mutant: 382 - WrongMainActivity
+Mutant: 383 - MissingPermissionManifest
+Mutant: 384 - MissingPermissionManifest
+Mutant: 385 - MissingPermissionManifest
+Mutant: 386 - MissingPermissionManifest
+Mutant: 387 - MissingPermissionManifest
+Mutant: 388 - MissingPermissionManifest
+Mutant: 389 - MissingPermissionManifest
+Mutant: 390 - InvalidColor
+Mutant: 391 - InvalidColor
+Mutant: 392 - InvalidColor
+Mutant: 393 - InvalidColor
+Mutant: 394 - InvalidColor
+Mutant: 395 - InvalidColor
+Mutant: 396 - InvalidColor
+Mutant: 397 - InvalidColor
+Mutant: 398 - InvalidColor
+Mutant: 399 - InvalidColor
+Mutant: 400 - InvalidColor
+Mutant: 401 - InvalidColor
+Mutant: 402 - InvalidColor
+Mutant: 403 - InvalidColor
+Mutant: 404 - InvalidColor

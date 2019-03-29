@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.db.BudgetsDbAdapterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:52:46" hostname="jlpulgarin-PC" time="19.569">
+  <properties/>
+  <testcase name="testBulkAddBudgets" classname="org.gnucash.android.test.unit.db.BudgetsDbAdapterTest" time="3.295"/>
+  <testcase name="testGetAccountBudgets" classname="org.gnucash.android.test.unit.db.BudgetsDbAdapterTest" time="3.219"/>
+  <testcase name="savingBudget_shouldRequireRecurrence" classname="org.gnucash.android.test.unit.db.BudgetsDbAdapterTest" time="2.616"/>
+  <testcase name="savingBudget_shouldRequireExistingAccount" classname="org.gnucash.android.test.unit.db.BudgetsDbAdapterTest" time="2.583"/>
+  <testcase name="testAddingBudget" classname="org.gnucash.android.test.unit.db.BudgetsDbAdapterTest" time="4.527"/>
+  <testcase name="savingBudget_shouldRequireBudgetAmount" classname="org.gnucash.android.test.unit.db.BudgetsDbAdapterTest" time="3.328"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

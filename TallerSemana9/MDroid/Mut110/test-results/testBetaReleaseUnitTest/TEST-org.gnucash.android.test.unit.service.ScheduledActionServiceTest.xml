@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:49:26" hostname="jlpulgarin-PC" time="34.829">
+  <properties/>
+  <testcase name="scheduledTransactionsWithEndTimeInPast_shouldBeExecuted" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="4.328"/>
+  <testcase name="scheduledBackups_shouldNotRunBeforeNextScheduledExecution" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="3.313"/>
+  <testcase name="recurringTransactions_shouldHaveScheduledActionUID" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="3.094"/>
+  <testcase name="scheduledBackups_shouldNotIncludeTransactionsPreviousToTheLastRun" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="3.39"/>
+  <testcase name="futureScheduledActions_shouldNotRun" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="3.407"/>
+  <testcase name="scheduledBackups_shouldRunOnlyOnce" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="3.015"/>
+  <testcase name="disabledScheduledActions_shouldNotRun" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="3.219"/>
+  <testcase name="scheduledBackups_shouldIncludeTransactionsAfterTheLastRun" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="3.422"/>
+  <testcase name="missedScheduledTransactions_shouldBeGenerated" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="4.297"/>
+  <testcase name="exceededExecutionCounts_shouldNotRun" classname="org.gnucash.android.test.unit.service.ScheduledActionServiceTest" time="3.344"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

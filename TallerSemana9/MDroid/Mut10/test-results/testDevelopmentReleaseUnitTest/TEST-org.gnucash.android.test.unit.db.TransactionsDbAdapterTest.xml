@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.db.TransactionsDbAdapterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:04:35" hostname="jlpulgarin-PC" time="18.782">
+  <properties/>
+  <testcase name="shouldBalanceTransactionsOnSave" classname="org.gnucash.android.test.unit.db.TransactionsDbAdapterTest" time="4.751"/>
+  <testcase name="testComputeBalance" classname="org.gnucash.android.test.unit.db.TransactionsDbAdapterTest" time="4.25"/>
+  <testcase name="testTransactionsAreTimeSorted" classname="org.gnucash.android.test.unit.db.TransactionsDbAdapterTest" time="4.578"/>
+  <testcase name="deletingTransactionsShouldDeleteSplits" classname="org.gnucash.android.test.unit.db.TransactionsDbAdapterTest" time="5.203"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

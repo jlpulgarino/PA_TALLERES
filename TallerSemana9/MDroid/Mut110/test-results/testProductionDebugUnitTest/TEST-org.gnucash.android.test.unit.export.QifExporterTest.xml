@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.export.QifExporterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-29T04:05:28" hostname="jlpulgarin-PC" time="10.469">
+  <properties/>
+  <testcase name="memoAndDescription_shouldBeExported" classname="org.gnucash.android.test.unit.export.QifExporterTest" time="3.688"/>
+  <testcase name="testWithNoTransactionsToExport_shouldNotCreateAnyFile" classname="org.gnucash.android.test.unit.export.QifExporterTest" time="2.828"/>
+  <testcase name="testGenerateQIFExport" classname="org.gnucash.android.test.unit.export.QifExporterTest" time="3.953"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

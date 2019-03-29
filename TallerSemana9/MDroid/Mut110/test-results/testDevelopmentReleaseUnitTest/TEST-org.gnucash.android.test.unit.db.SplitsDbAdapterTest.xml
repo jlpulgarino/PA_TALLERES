@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.db.SplitsDbAdapterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:58:57" hostname="jlpulgarin-PC" time="11.532">
+  <properties/>
+  <testcase name="addingSplitShouldUnsetExportedFlagOfTransaction" classname="org.gnucash.android.test.unit.db.SplitsDbAdapterTest" time="3.188"/>
+  <testcase name="testAddSplit" classname="org.gnucash.android.test.unit.db.SplitsDbAdapterTest" time="3.5"/>
+  <testcase name="shouldHaveTransactionInDatabase" classname="org.gnucash.android.test.unit.db.SplitsDbAdapterTest" time="2.125"/>
+  <testcase name="shouldHaveAccountInDatabase" classname="org.gnucash.android.test.unit.db.SplitsDbAdapterTest" time="2.719"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

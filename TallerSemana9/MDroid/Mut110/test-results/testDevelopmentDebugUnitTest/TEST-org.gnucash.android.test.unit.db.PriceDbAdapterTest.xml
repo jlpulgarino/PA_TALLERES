@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.db.PriceDbAdapterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:53:07" hostname="jlpulgarin-PC" time="2.829">
+  <properties/>
+  <testcase name="shouldOnlySaveOnePricePerCommodityPair" classname="org.gnucash.android.test.unit.db.PriceDbAdapterTest" time="2.829"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

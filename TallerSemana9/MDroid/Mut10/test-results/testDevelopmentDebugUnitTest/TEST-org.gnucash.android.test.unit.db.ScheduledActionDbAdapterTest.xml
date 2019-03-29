@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.db.ScheduledActionDbAdapterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-29T02:49:22" hostname="jlpulgarin-PC" time="7.328">
+  <properties/>
+  <testcase name="testGenerateRepeatString" classname="org.gnucash.android.test.unit.db.ScheduledActionDbAdapterTest" time="1.969"/>
+  <testcase name="everyScheduledActionShouldHaveRecurrence" classname="org.gnucash.android.test.unit.db.ScheduledActionDbAdapterTest" time="2.578"/>
+  <testcase name="testAddGetRecord" classname="org.gnucash.android.test.unit.db.ScheduledActionDbAdapterTest" time="2.781"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

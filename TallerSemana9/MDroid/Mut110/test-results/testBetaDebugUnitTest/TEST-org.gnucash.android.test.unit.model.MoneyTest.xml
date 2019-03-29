@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.model.MoneyTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:41:39" hostname="jlpulgarin-PC" time="22.719">
+  <properties/>
+  <testcase name="testCreation" classname="org.gnucash.android.test.unit.model.MoneyTest" time="2.141"/>
+  <testcase name="testDivisionWithDifferentCurrency" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.531"/>
+  <testcase name="testMultiplication" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.906"/>
+  <testcase name="testAddition" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.75"/>
+  <testcase name="testPrinting" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.75"/>
+  <testcase name="testSubtractionWithDifferentCurrency" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.672"/>
+  <testcase name="testMultiplicationWithDifferentCurrencies" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.516"/>
+  <testcase name="testDivision" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.906"/>
+  <testcase name="testFractionParts" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.86"/>
+  <testcase name="testAdditionWithIncompatibleCurrency" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.5"/>
+  <testcase name="testNegation" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.656"/>
+  <testcase name="testSubtraction" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.859"/>
+  <testcase name="nonMatchingCommodityFraction_shouldThrowException" classname="org.gnucash.android.test.unit.model.MoneyTest" time="1.672"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

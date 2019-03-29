@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.db.BooksDbAdapterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:14:18" hostname="jlpulgarin-PC" time="36.544">
+  <properties/>
+  <testcase name="setBookActive" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="3.633"/>
+  <testcase name="savingBook_requiresRootAccountGUID" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="4.862"/>
+  <testcase name="addBook" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="2.36"/>
+  <testcase name="testGeneratedDisplayNames_shouldBeUnique" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="5.177"/>
+  <testcase name="recoverFromEmptyDatabase" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="6.069"/>
+  <testcase name="testGeneratedDisplayName" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="2.64"/>
+  <testcase name="deletingBook_shouldDeleteDbFile" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="5.35"/>
+  <testcase name="recoverFromNoActiveBookFound" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="3.891"/>
+  <testcase name="deleteBook" classname="org.gnucash.android.test.unit.db.BooksDbAdapterTest" time="2.562"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[org.gnucash.android.db.adapter.BooksDbAdapter$NoActiveBookFoundException: There is no active book in the app.This should NEVER happen, fix your bugs!
+UID, created, source
+96cb97cf7c59424da635e67221220655, 2019-03-28 22:14:51.0, null
+25ec883d87504d5b9e950cbec3c73f3c, 2019-03-28 22:14:52.0, null
+
+	at org.gnucash.android.db.adapter.BooksDbAdapter.getActiveBookUID(BooksDbAdapter.java:169)
+	at org.gnucash.android.test.unit.db.BooksDbAdapterTest.recoverFromNoActiveBookFound(BooksDbAdapterTest.java:173)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:523)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.robolectric.internal.SandboxTestRunner$2.evaluate(SandboxTestRunner.java:226)
+	at org.robolectric.internal.SandboxTestRunner.runChild(SandboxTestRunner.java:108)
+	at org.robolectric.internal.SandboxTestRunner.runChild(SandboxTestRunner.java:35)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.robolectric.internal.SandboxTestRunner$1.evaluate(SandboxTestRunner.java:62)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.runTestClass(JUnitTestClassExecuter.java:114)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.execute(JUnitTestClassExecuter.java:57)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassProcessor.processTestClass(JUnitTestClassProcessor.java:66)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy1.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:146)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:128)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:404)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+	at java.lang.Thread.run(Thread.java:745)
+]]></system-err>
+</testsuite>

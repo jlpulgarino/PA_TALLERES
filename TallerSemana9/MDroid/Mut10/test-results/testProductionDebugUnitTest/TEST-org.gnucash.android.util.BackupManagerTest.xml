@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.util.BackupManagerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:18:49" hostname="jlpulgarin-PC" time="14.613">
+  <properties/>
+  <testcase name="getBackupList" classname="org.gnucash.android.util.BackupManagerTest" time="4.847"/>
+  <testcase name="whenNoBackupsHaveBeenDone_shouldReturnEmptyBackupList" classname="org.gnucash.android.util.BackupManagerTest" time="3.86"/>
+  <testcase name="backupAllBooks" classname="org.gnucash.android.util.BackupManagerTest" time="5.906"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

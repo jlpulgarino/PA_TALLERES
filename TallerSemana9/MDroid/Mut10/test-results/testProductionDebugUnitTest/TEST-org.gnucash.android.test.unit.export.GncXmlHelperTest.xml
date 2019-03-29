@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.export.GncXmlHelperTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:16:13" hostname="jlpulgarin-PC" time="0.578">
+  <properties/>
+  <testcase name="shouldFailToParseWronglyFormattedInput" classname="org.gnucash.android.test.unit.export.GncXmlHelperTest" time="0.016"/>
+  <testcase name="testParseSplitAmount" classname="org.gnucash.android.test.unit.export.GncXmlHelperTest" time="0.516"/>
+  <testcase name="testFormatSplitAmount" classname="org.gnucash.android.test.unit.export.GncXmlHelperTest" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

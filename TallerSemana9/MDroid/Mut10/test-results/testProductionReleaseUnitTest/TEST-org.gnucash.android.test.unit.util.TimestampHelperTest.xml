@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.util.TimestampHelperTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:25:35" hostname="jlpulgarin-PC" time="14.563">
+  <properties/>
+  <testcase name="shouldGetUtcStringFromTimestamp" classname="org.gnucash.android.test.unit.util.TimestampHelperTest" time="3.406"/>
+  <testcase name="shouldGetTimestampFromNow" classname="org.gnucash.android.test.unit.util.TimestampHelperTest" time="3.766"/>
+  <testcase name="shouldGetTimestampFromEpochZero" classname="org.gnucash.android.test.unit.util.TimestampHelperTest" time="3.875"/>
+  <testcase name="shouldGetTimestampFromUtcString" classname="org.gnucash.android.test.unit.util.TimestampHelperTest" time="3.516"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

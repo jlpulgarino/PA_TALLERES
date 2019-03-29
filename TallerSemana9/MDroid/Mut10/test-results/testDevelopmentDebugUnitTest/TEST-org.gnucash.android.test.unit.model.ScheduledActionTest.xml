@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.model.ScheduledActionTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-03-29T02:52:20" hostname="jlpulgarin-PC" time="0.078">
+  <properties/>
+  <testcase name="weeklyActionsWithoutDayOfWeekSet_shouldReturnDateInTheFuture" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.078"/>
+  <testcase name="testComputingNextScheduledExecution" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.0"/>
+  <testcase name="weeklyActionsWithMultiplier_shouldBeDueOnTheDayOfWeekSet" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.0"/>
+  <testcase name="settingStartTime_shouldSetRecurrenceStart" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.0"/>
+  <testcase name="settingRecurrence_shouldSetEndTime" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.0"/>
+  <testcase name="multiDayOfWeekWeeklyActions_shouldBeDueOnEachDayOfWeekSet" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.0"/>
+  <testcase name="settingEndTime_shouldSetRecurrenceEnd" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.0"/>
+  <testcase name="settingRecurrence_shouldSetScheduledActionStartTime" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.0"/>
+  <testcase name="testComputingTimeOfLastSchedule" classname="org.gnucash.android.test.unit.model.ScheduledActionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gnucash.android.test.unit.model.AccountTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-03-29T03:59:57" hostname="jlpulgarin-PC" time="20.157">
+  <properties/>
+  <testcase name="testAccountAlwaysHasUID" classname="org.gnucash.android.test.unit.model.AccountTest" time="1.75"/>
+  <testcase name="settingNameShouldNotChangeFullName" classname="org.gnucash.android.test.unit.model.AccountTest" time="1.797"/>
+  <testcase name="testTransactionsHaveSameCurrencyAsAccount" classname="org.gnucash.android.test.unit.model.AccountTest" time="2.797"/>
+  <testcase name="testSetColorWithAlphaComponent" classname="org.gnucash.android.test.unit.model.AccountTest" time="3.438"/>
+  <testcase name="testAccountUsesDefaultCurrency" classname="org.gnucash.android.test.unit.model.AccountTest" time="4.828"/>
+  <testcase name="shouldSetFullNameWhenCreated" classname="org.gnucash.android.test.unit.model.AccountTest" time="1.609"/>
+  <testcase name="newInstance_shouldReturnNonNullValues" classname="org.gnucash.android.test.unit.model.AccountTest" time="1.75"/>
+  <testcase name="testSetInvalidColorCode" classname="org.gnucash.android.test.unit.model.AccountTest" time="2.188"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
