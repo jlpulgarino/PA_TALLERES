@@ -1,0 +1,40 @@
+Total markings for ASG = 0 in region us-west-2
+List: 
+Total unmarkings for ASG = 0 in region us-west-2
+List: 
+Total cleanups for ASG = 0 in region us-west-2
+List: 
+Total cleanup failures for ASG = 0 in region us-west-2
+List: 
+Total markings for INSTANCE = 0 in region us-west-2
+List: 
+Total unmarkings for INSTANCE = 0 in region us-west-2
+List: 
+Total cleanups for INSTANCE = 0 in region us-west-2
+List: 
+Total cleanup failures for INSTANCE = 0 in region us-west-2
+List: 
+Total markings for EBS_VOLUME = 0 in region us-west-2
+List: 
+Total unmarkings for EBS_VOLUME = 0 in region us-west-2
+List: 
+Total cleanups for EBS_VOLUME = 0 in region us-west-2
+List: 
+Total cleanup failures for EBS_VOLUME = 0 in region us-west-2
+List: 
+Total markings for EBS_SNAPSHOT = 0 in region us-west-2
+List: 
+Total unmarkings for EBS_SNAPSHOT = 0 in region us-west-2
+List: 
+Total cleanups for EBS_SNAPSHOT = 0 in region us-west-2
+List: 
+Total cleanup failures for EBS_SNAPSHOT = 0 in region us-west-2
+List: 
+Total markings for LAUNCH_CONFIG = 0 in region us-west-2
+List: 
+Total unmarkings for LAUNCH_CONFIG = 0 in region us-west-2
+List: 
+Total cleanups for LAUNCH_CONFIG = 0 in region us-west-2
+List: 
+Total cleanup failures for LAUNCH_CONFIG = 0 in region us-west-2
+List: 

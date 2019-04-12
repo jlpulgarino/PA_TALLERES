@@ -1,0 +1,11 @@
+[
+	{"monkeyType":"CHAOS",
+	"eventId":"i-06bc3a59b5f459174",
+	"eventType":"CHAOS_TERMINATION",
+	"eventTime":1554953939031,
+	"region":"us-west-2",
+	"groupName":"monkey-target",
+	"groupType":"ASG",
+	"chaosType":"ShutdownInstance"
+	}
+]
