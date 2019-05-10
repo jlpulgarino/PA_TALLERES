@@ -1,0 +1,89 @@
+<div class="row">
+  <div class="col-xs-10">
+      <rd-widget>
+        <rd-widget-header icon="fa-users" title="Create/Edit Jobs"></rd-widget-header>
+        <rd-widget-body classes="large no-padding" >
+            <div ng-controller="editJobCtrl">
+                <ng-form class="form-horizontal col-xs-10" ng-action="#/jobs">
+                    <div class="form-group">
+                      <label class="control-label col-sm-2" for="id">Id:</label>
+                      <div class="col-sm-4">
+                        <input disabled="true" bled type="text" class="form-control" ng-model="job.id" id="id" placeholder="Id">
+                      </div>
+                    </div>
+                 <div class="form-group">
+                   <label class="control-label col-sm-2" for="descr">Descr:</label>
+                   <div class="col-sm-4">
+                     <input bled type="text" class="form-control" ng-model="job.descr" id="descr" placeholder="Description">
+                   </div>
+                 </div>
+                 <div class="form-group">
+                   <label class="control-label col-sm-2" for="chronFlag">ChronFlag:</label>
+                   <div class="col-sm-4">
+                     <select name="chronFlag" ng-model="job.chronFlag">
+                       <option value="Y">YES</option>
+                       <option value="N" selected="selected">NO</option>
+                     </select>
+                   </div>
+                 </div>
+                  <div class="form-group">
+                   <label class="control-label col-sm-2" for="chronExpr">ChronExpr:</label>
+                   <div class="col-sm-4">
+                     <input bled type="text" class="form-control" ng-model="job.chronExpr" id="chronExpr" placeholder="chronExpr">
+                   </div>
+                 </div>
+                 <div class="form-group">
+                  <label class="control-label col-sm-2" for="status">Status:</label>
+                  <div class="col-sm-4">
+                    <input bled type="text" class="form-control" ng-model="job.status" id="status" placeholder="status">
+                  </div>
+                </div>
+                 <div class="form-group">
+                   <label class="control-label col-sm-2" for="StrategyId">StrategyId:</label>
+                   <div class="col-sm-4">
+                     <select name="StrategyId" ng-model="job.StrategyId" ng-options="strategy.id as strategy.descr for strategy in strategys" ></select>
+                   </div>
+                 </div>
+                 <div class="form-group">
+                   <div class="col-sm-offset-2 col-sm-1">
+                     <button type="submit" class="btn btn-default" ng-click="guardarJob()">Guardar</button>
+                   </div>
+                   <div class="col-sm-offset-1 col-sm-1">
+                     <button type="cancel" class="btn btn-default" ng-click="cancel()">Cancelar</button>
+                   </div>
+                 </div>
+               </ng-form>
+            </div>
+        </rd-widget-body>
+       </rd-widget>
+       <rd-widget>
+         <rd-widget-header icon="fa-tasks" title="Job Steps"></rd-widget-header>
+         <rd-widget-body classes="large no-padding">
+             <div class="table-responsive" data-ng-controller="editJobCtrl">
+                 <label class="control-label col-sm-10" for="estado">Job Steps</label>
+               <table class="table">
+                   <thead>
+                       <tr><th></th>
+                           <th class="text-center">ID</th>
+                           <th>TestTask</th>
+                           <th><span ng-class='text-success' ><i class="glyphicon glyphicon-edit" ></i></span></th>
+                           <th><a ng-href="#/steps/edit" ng-click="addStep()" ><span ng-class='text-success'><i class="glyphicon glyphicon-plus" ></i></span></a></th>
+                           <!--<th><span ><i class="glyphicon glyphicon-minus" ></i></span></th></tr>-->
+                   </thead>
+                 <tbody>
+                   <!--<tr ng-repeat="proyecto in proyectos"><td><span ng-class="{'text-success':proyecto.estado == 'N'}"><i class="fa fa-flag"></i></span></td><td>{{proyecto.id}}</td><td>{{proyecto.nombre}}</td><td>{{proyecto.descripcion}}</td><td><button type="button" class="btn btn-default" ng-click="editProyecto(proyecto)" ><span ng-class="{'text-success':proyecto.estado == 'N'}" ><i class="glyphicon glyphicon-edit" ><</i></span></button></td></tr>-->
+                   <tr ng-repeat="step in steps">
+                       <td><span ng-class="{'text-success':version.estado == 'N'}"><i class="fa fa-flag"></i></span></td>
+                       <td>{{step.id}}</td>
+                       <td>{{step.TestTaskId}}</td>
+                       <td><a ng-href="#/steps/edit" ng-click="editStep(step)" ><span ng-class="{'text-success':proyecto.estado == 'N'}" ><i class="glyphicon glyphicon-edit" ></i></span></a></td>
+                       <td><a ng-href="#/steps/edit" ng-click="addStep()" ><span ng-class='text-success'><i class="glyphicon glyphicon-plus" ></i></span></a></td>
+                       <!--<td><a ng-click="delSubroyecto($event,subproyecto)" ><span ><i class="glyphicon glyphicon-minus" ></i></span></a></td>-->
+                   </tr>
+                 </tbody>
+               </table>
+             </div>
+         </rd-widget-body>
+      </rd-widget>
+  </div>
+</div>

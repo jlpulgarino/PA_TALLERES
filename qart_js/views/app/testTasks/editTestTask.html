@@ -1,0 +1,56 @@
+<rd-widget>
+  <rd-widget-header icon="fa-tasks" title="Create/Edit TestTask"></rd-widget-header>
+  <rd-widget-body classes="large no-padding" >
+      <div ng-controller="editTestTaskCtrl">
+          <ng-form class="form-horizontal" ng-action="#/testTasks">
+              <div class="form-group">
+                <label class="control-label col-sm-2" for="id">Id:</label>
+                <div class="col-sm-4">
+                  <input disabled="true" bled type="text" class="form-control" ng-model="testTask.id" id="id" placeholder="Id">
+                </div>
+              </div>
+              <div class="form-group">
+                <label class="control-label col-sm-2" for="sequence">Sequence:</label>
+                <div class="col-sm-4">
+                  <input bled type="text" class="form-control" ng-model="testTask.sequence" id="sequence" placeholder="sequence">
+                </div>
+              </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="testType">testType:</label>
+             <div class="col-sm-4">
+               <input bled type="text" class="form-control" ng-model="testTask.testType" id="testType" placeholder="TestType">
+             </div>
+           </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="descr">Description:</label>
+             <div class="col-sm-4">
+               <textarea type="textarea" class="form-control" ng-model="testTask.descr" id="descr" placeholder="Digite una descr" rows="5">{{testTask.descr}}</textarea>
+             </div>
+           </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="objective">Objective:</label>
+             <div class="col-sm-4">
+               <textarea type="textarea" class="form-control" ng-model="testTask.objective" id="objective" placeholder="Objective" rows="5">{{testTask.objective}}</textarea>
+             </div>
+           </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="withVRT">VRT:</label>
+             <div class="col-sm-4">
+               <select name="withVRT" ng-model="testTask.withVRT">
+                 <option value="Y">YES</option>
+                 <option value="N" selected="selected" >NO</option>
+               </select>
+             </div>
+           </div>
+           <div class="form-group">
+             <div class="col-sm-offset-2 col-sm-1">
+               <button type="submit" class="btn btn-default" ng-click="guardarTestTask()">Guardar</button>
+             </div>
+             <div class="col-sm-offset-1 col-sm-1">
+               <button type="cancel" class="btn btn-default" ng-click="cancel()">Cancelar</button>
+             </div>
+           </div>
+         </ng-form>
+      </div>
+  </rd-widget-body>
+ </rd-widget>

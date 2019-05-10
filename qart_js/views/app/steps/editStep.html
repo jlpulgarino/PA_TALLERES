@@ -1,0 +1,35 @@
+<rd-widget>
+  <rd-widget-header icon="fa-tasks" title="Create/Edit Step"></rd-widget-header>
+  <rd-widget-body classes="large no-padding" >
+      <div ng-controller="editStepCtrl">
+          <ng-form class="form-horizontal" ng-action="#/steps">
+              <div class="form-group">
+                <label class="control-label col-sm-2" for="id">Id:</label>
+                <div class="col-sm-4">
+                  <input disabled="true" bled type="text" class="form-control" ng-model="step.id" id="id" placeholder="Id">
+                </div>
+              </div>
+              <div class="form-group">
+                <label class="control-label col-sm-2" for="JobId">Job:</label>
+                <div class="col-sm-4">
+                  <input disabled="true" bled type="text" class="form-control" ng-model="step.JobId" id="JobId" placeholder="JobId">
+                </div>
+              </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="TestTaskId">TestTaskId:</label>
+             <div class="col-sm-4">
+               <select name="TestTaskId" ng-model="step.TestTaskId" ng-options="testTask.id as testTask.descr for testTask in testTasks" ></select>
+             </div>
+           </div>
+           <div class="form-group">
+             <div class="col-xs-offset-2 col-xs-1">
+               <button type="submit" class="btn btn-default" ng-click="guardarStep()">Guardar</button>
+             </div>
+             <div class="col-xs-offset-1 col-xs-1">
+               <button type="cancel" class="btn btn-default" ng-click="cancel()">Cancelar</button>
+             </div>
+           </div>
+         </ng-form>
+      </div>
+  </rd-widget-body>
+ </rd-widget>

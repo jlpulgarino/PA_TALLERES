@@ -1,0 +1,47 @@
+<rd-widget>
+  <rd-widget-header icon="fa-tasks" title="Create/Edit Version"></rd-widget-header>
+  <rd-widget-body classes="large no-padding" >
+      <div ng-controller="editVersionCtrl">
+          <ng-form class="form-horizontal col-xs-10" ng-action="#/versions">
+              <div class="form-group">
+                <label class="control-label col-sm-2" for="id">Id:</label>
+                <div class="col-sm-4">
+                  <input disabled="true" bled type="text" class="form-control" ng-model="version.id" id="id" placeholder="Id">
+                </div>
+              </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="version">Version:</label>
+             <div class="col-sm-4">
+               <input bled type="text" class="form-control" ng-model="version.version" id="version" placeholder="Digite un version">
+             </div>
+           </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="descr">Description:</label>
+             <div class="col-sm-4">
+               <textarea type="textarea" class="form-control" ng-model="version.descr" id="descr" placeholder="Digite una descr" rows="5">{{version.descr}}</textarea>
+             </div>
+           </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="uri">URI:</label>
+             <div class="col-sm-4">
+               <textarea type="textarea" class="form-control" ng-model="version.uri" id="uri" placeholder="Digite una uri" rows="5">{{version.uri}}</textarea>
+             </div>
+           </div>
+           <div class="form-group">
+             <label class="control-label col-sm-2" for="architecture">Architecture:</label>
+             <div class="col-sm-4">
+               <textarea type="textarea" class="form-control" ng-model="version.architecture" id="architecture" placeholder="Digite una architecture" rows="5">{{version.architecture}}</textarea>
+             </div>
+           </div>
+           <div class="form-group">
+             <div class="col-sm-offset-2 col-sm-1">
+               <button type="submit" class="btn btn-default" ng-click="guardarVersion()">Guardar</button>
+             </div>
+             <div class="col-sm-offset-1 col-sm-1">
+               <button type="cancel" class="btn btn-default" ng-click="cancel()">Cancelar</button>
+             </div>
+           </div>
+         </ng-form>
+      </div>
+  </rd-widget-body>
+ </rd-widget>
